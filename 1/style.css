@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+}
+
+header {
+  background-color: rgb(63, 139, 238);
+  color: white;
+}
+
+a {
+  background-color: white;
+}
+
+#adiv {
+  background-color: white;
+}
+
+table {
+  margin: auto;
+  border: 1px solid black;
+}
+
+tr,
+th,
+td {
+  border: 1px solid black;
+}

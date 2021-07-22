@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-color: rgb(53 54 58);
+}
+
+#title {
+  font-size: 85px;
+  font-weight: bold;
+  color: white;
+  margin: 200px 0 35px 0;
+}
+
+#searchbox {
+  width: 500px;
+  height: 40px;
+  border-radius: 45px;
+  border: none;
+}
